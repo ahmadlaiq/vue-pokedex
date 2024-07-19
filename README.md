@@ -1,35 +1,46 @@
-# ervalo-landing-page
+# VueJS Pokemon App
 
-This template should help get you started developing with Vue 3 in Vite.
+## Fitur
+1. Menampilkan daftar pokemon
+2. Menampilkan detail pokemon
+3. Mencari pokemon berdasarkan nama atau nomor
 
-## Recommended IDE Setup
+## Instalasi dan Start Server
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Clone repository:
 
-## Customize configuration
+```
+git clone https://github.com/ahmadlaiq/vue-pokedex.git
+```
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Pindah ke direktori project:
 
-## Project Setup
+```
+cd sveltekit-vue
+```
 
-```sh
+Install dependencies:
+
+```
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+Start project:
 
-```sh
+```
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Linting
+Untuk menjalankan linting, jalankan perintah berikut di terminal:
 
-```sh
-npm run build
+```
+npm run lint
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+## Formating Code
+Untuk menjalankan formating, jalankan perintah berikut di terminal:
 
-```sh
-npm run lint
+```
+npm run format
 ```
