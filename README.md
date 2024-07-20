@@ -16,7 +16,7 @@ git clone https://github.com/ahmadlaiq/vue-pokedex.git
 Pindah ke direktori project:
 
 ```
-cd sveltekit-vue
+cd vue-pokedex
 ```
 
 Install dependencies:
